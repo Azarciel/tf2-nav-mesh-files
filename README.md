@@ -15,4 +15,4 @@ Map list:
 - [pl_terraining](https://steamcommunity.com/sharedfiles/filedetails/?id=1813033092) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_terraining_a13.nav))
 - [pl_yokohama](https://steamcommunity.com/sharedfiles/filedetails/?id=3228889882) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_yokohama_b5a.nav))
 
-Feel free to use the nav mesh files on your TF2 server.
+Feel free to use these on your TF2 server.
