@@ -3,6 +3,7 @@ The nav mesh files I've personally made and tailored for some [TF2 community wor
 
 Map list:
 - [pl_bridgeway](https://steamcommunity.com/sharedfiles/filedetails/?id=3469785974) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_bridgeway_b2.nav))
+- [pl_cozy_canyon](https://steamcommunity.com/sharedfiles/filedetails/?id=2502609756) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_cozy_canyon_v2a.nav))
 - [pl_deadwood](https://steamcommunity.com/sharedfiles/filedetails/?id=2953654311) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_deadwood.nav))
 - [pl_downunder](https://steamcommunity.com/sharedfiles/filedetails/?id=3503530888) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_downunder_b29.nav))
 - [pl_farmstead](https://steamcommunity.com/sharedfiles/filedetails/?id=3473026478) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_farmstead_rc6.nav))
