@@ -8,6 +8,7 @@ Map list:
 - [pl_downunder](https://steamcommunity.com/sharedfiles/filedetails/?id=3503530888) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_downunder_b29.nav))
 - [pl_farmstead](https://steamcommunity.com/sharedfiles/filedetails/?id=3473026478) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_farmstead_rc6.nav))
 - [pl_highwood](https://steamcommunity.com/sharedfiles/filedetails/?id=1769496557) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_highwood_b19.nav))
+- [pl_kinder](https://steamcommunity.com/sharedfiles/filedetails/?id=1641154328) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_kinder_b17.nav))
 - [pl_mesaworks](https://steamcommunity.com/sharedfiles/filedetails/?id=529340378) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_mesaworks_final1.nav))
 - [pl_outback](https://steamcommunity.com/sharedfiles/filedetails/?id=2954098899) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_outback_rc4.nav))
 - [pl_rust](https://steamcommunity.com/sharedfiles/filedetails/?id=783080284) ([link to nav mesh](https://github.com/Azarciel/tf2-nav-mesh-files/blob/main/maps/pl_rust.nav))
